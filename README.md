@@ -7,6 +7,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshalsethji/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ leetcode problems I do
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
