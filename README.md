@@ -8,6 +8,7 @@ leetcode problems I do
 | ------- |
 | [0001-two-sum](https://github.com/harshalsethji/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,12 @@ leetcode problems I do
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
