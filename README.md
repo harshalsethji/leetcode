@@ -8,6 +8,7 @@ leetcode problems I do
 | ------- |
 | [0001-two-sum](https://github.com/harshalsethji/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/harshalsethji/leetcode/tree/master/0035-search-insert-position) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
@@ -48,6 +49,7 @@ leetcode problems I do
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshalsethji/leetcode/tree/master/0035-search-insert-position) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
