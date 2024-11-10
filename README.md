@@ -26,6 +26,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshalsethji/leetcode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshalsethji/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/harshalsethji/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -37,6 +38,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshalsethji/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,4 +57,8 @@ leetcode problems I do
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshalsethji/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
