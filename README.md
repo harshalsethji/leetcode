@@ -10,6 +10,7 @@ leetcode problems I do
 | [0027-remove-element](https://github.com/harshalsethji/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/harshalsethji/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshalsethji/leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
@@ -17,6 +18,7 @@ leetcode problems I do
 | ------- |
 | [0001-two-sum](https://github.com/harshalsethji/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshalsethji/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -37,6 +39,7 @@ leetcode problems I do
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
