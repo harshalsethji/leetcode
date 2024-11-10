@@ -24,6 +24,7 @@ leetcode problems I do
 | [0009-palindrome-number](https://github.com/harshalsethji/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshalsethji/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/harshalsethji/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/harshalsethji/leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshalsethji/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/harshalsethji/leetcode/tree/master/0069-sqrtx) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
