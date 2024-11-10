@@ -29,6 +29,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshalsethji/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/harshalsethji/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshalsethji/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/harshalsethji/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
@@ -65,4 +66,8 @@ leetcode problems I do
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshalsethji/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshalsethji/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
