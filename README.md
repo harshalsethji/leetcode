@@ -44,6 +44,7 @@ leetcode problems I do
 | [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/harshalsethji/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/harshalsethji/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
