@@ -12,6 +12,7 @@ leetcode problems I do
 | [0066-plus-one](https://github.com/harshalsethji/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshalsethji/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
+| [1039-find-the-town-judge](https://github.com/harshalsethji/leetcode/tree/master/1039-find-the-town-judge) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/harshalsethji/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
@@ -21,6 +22,7 @@ leetcode problems I do
 | [0013-roman-to-integer](https://github.com/harshalsethji/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
+| [1039-find-the-town-judge](https://github.com/harshalsethji/leetcode/tree/master/1039-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,8 @@ leetcode problems I do
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshalsethji/leetcode/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/harshalsethji/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
