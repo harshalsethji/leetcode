@@ -87,4 +87,8 @@ leetcode problems I do
 | ------- |
 | [1039-find-the-town-judge](https://github.com/harshalsethji/leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/harshalsethji/leetcode/tree/master/1916-find-center-of-star-graph) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/harshalsethji/leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
