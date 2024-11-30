@@ -43,6 +43,7 @@ leetcode problems I do
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshalsethji/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/harshalsethji/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/harshalsethji/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshalsethji/leetcode/tree/master/0242-valid-anagram) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshalsethji/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -55,6 +56,7 @@ leetcode problems I do
 | [0061-rotate-list](https://github.com/harshalsethji/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/harshalsethji/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshalsethji/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/harshalsethji/leetcode/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshalsethji/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -94,6 +96,15 @@ leetcode problems I do
 | ------- |
 | [0061-rotate-list](https://github.com/harshalsethji/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshalsethji/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/harshalsethji/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/harshalsethji/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshalsethji/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harshalsethji/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harshalsethji/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
