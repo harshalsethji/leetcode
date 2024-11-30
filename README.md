@@ -55,6 +55,7 @@ leetcode problems I do
 | [0061-rotate-list](https://github.com/harshalsethji/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/harshalsethji/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshalsethji/leetcode/tree/master/0125-valid-palindrome) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshalsethji/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,4 +95,5 @@ leetcode problems I do
 | [0061-rotate-list](https://github.com/harshalsethji/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshalsethji/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/harshalsethji/leetcode/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshalsethji/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
